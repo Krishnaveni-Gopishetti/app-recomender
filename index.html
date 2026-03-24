@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Smart App Recommender</h2>
+
+<input id="age" placeholder="Age"><br>
+<input id="edu" placeholder="Education (High School/Bachelor/Master)"><br>
+<input id="internet" placeholder="Internet Hours"><br>
+<input id="device" placeholder="Device (Mobile/Laptop/Tablet)"><br>
+<input id="category" placeholder="Category"><br>
+
+<button onclick="getApps()">Get Apps</button>
+
+<p id="result"></p>
+
+<script>
+function getApps() {
+  fetch("https://app-recomender-1.onrender.com/recommend", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({
+      age: document.getElementById("age").value,
+      education: document.getElementById("edu").value,
+      internet_hours: document.getElementById("internet").value,
+      device: document.getElementById("device").value,
+      category: document.getElementById("category").value
+    })
+  })
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById("result").innerText =
+      "Level: " + data.level + "\nApps: " + data.personalized_apps.join(", ");
+  });
+}
+</script>
+
+</body>
+</html>
