@@ -1,0 +1,31 @@
+category,app_name,app_type,app_link,min_level,rating,target_age_min,target_age_max
+Productivity,Notion,Real,https://www.notion.so/,Beginner,4.6,16,40
+Productivity,Trello,Real,https://trello.com/,Beginner,4.5,18,45
+Productivity,TaskMaster Pro,Fake,http://taskmaster-pro.xyz,Intermediate,2.1,20,50
+Finance,Google Pay,Real,https://pay.google.com/,Beginner,4.4,18,60
+Finance,PhonePe,Real,https://www.phonepe.com/,Beginner,4.3,18,60
+Finance,QuickCash Bonus,Fake,http://quickcash-bonus.win,Intermediate,1.8,21,45
+Professional Growth,LinkedIn,Real,https://www.linkedin.com/,Intermediate,4.5,20,60
+Professional Growth,Coursera,Real,https://www.coursera.org/,Beginner,4.6,18,50
+Professional Growth,JobFast Earn,Fake,http://jobfast-earn.xyz,Advanced,2.0,22,45
+Health & Fitness,Google Fit,Real,https://www.google.com/fit/,Beginner,4.4,15,50
+Health & Fitness,MyFitnessPal,Real,https://www.myfitnesspal.com/,Beginner,4.5,18,55
+Health & Fitness,FitCash Rewards,Fake,http://fitcash-reward.win,Intermediate,1.5,20,40
+Education,Khan Academy,Real,https://www.khanacademy.org/,Beginner,4.7,10,35
+Education,Unacademy,Real,https://unacademy.com/,Intermediate,4.3,16,40
+Education,ExamHack Pro,Fake,http://examhack-pro.xyz,Advanced,2.2,18,35
+Communication,WhatsApp,Real,https://www.whatsapp.com/,Beginner,4.3,13,70
+Communication,Telegram,Real,https://telegram.org/,Intermediate,4.4,16,60
+Communication,ChatLoot Bonus,Fake,http://chatloot-bonus.win,Intermediate,1.9,18,40
+Cyber Security,Avast Antivirus,Real,https://www.avast.com/,Beginner,4.2,18,60
+Cyber Security,Bitdefender,Real,https://www.bitdefender.com/,Advanced,4.6,20,60
+Cyber Security,SecureCash Vault,Fake,http://securecash-vault.xyz,Advanced,1.6,22,45
+Cloud Storage,Google Drive,Real,https://drive.google.com/,Beginner,4.6,15,60
+Cloud Storage,Dropbox,Real,https://www.dropbox.com/,Intermediate,4.5,18,60
+Cloud Storage,DriveCash Bonus,Fake,http://drivecash-bonus.win,Advanced,1.7,20,45
+Entertainment,Spotify,Real,https://www.spotify.com/,Beginner,4.6,15,50
+Entertainment,Netflix,Real,https://www.netflix.com/,Intermediate,4.5,18,60
+Entertainment,MovieCash Free,Fake,http://moviecash-free.xyz,Advanced,1.4,20,40
+Banking,SBI YONO,Real,https://www.onlinesbi.sbi/,Beginner,4.3,18,65
+Banking,HDFC Bank App,Real,https://www.hdfcbank.com/,Intermediate,4.4,20,65
+Banking,InstantLoan Now,Fake,http://instantloan-now.win,Advanced,1.9,21,50
