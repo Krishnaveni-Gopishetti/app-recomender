@@ -1,0 +1,601 @@
+age,education_level,internet_hours,device_type,digital_literacy_level,app_name,app_link,app_type,Rating
+24,Master,4,Mobile,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.9
+28,Master,8,Mobile,Advanced,VIP Crack Tool,Suspicious App,Fake,4.4
+24,Master,3,Laptop,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.6
+28,Master,8,Tablet,Beginner,Insta Growth Cracker,Suspicious App,Fake,4.0
+25,Bachelor,8,Mobile,Advanced,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.5
+38,High School,2,Mobile,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.6
+47,High School,6,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.5
+45,Bachelor,5,Tablet,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.4
+43,Master,6,Mobile,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.5
+42,Bachelor,1,Tablet,Beginner,Secret Spy Tracker,Suspicious App,Fake,4.3
+48,Master,3,Mobile,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.1
+37,High School,9,Mobile,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.6
+36,Master,7,Laptop,Advanced,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,3.8
+24,Bachelor,2,Tablet,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.9
+45,Master,2,Mobile,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.1
+43,Bachelor,5,Laptop,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.8
+45,High School,7,Tablet,Intermediate,Premium Unlock Hack,Suspicious App,Fake,4.4
+25,High School,3,Mobile,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.9
+21,High School,2,Tablet,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.5
+19,Bachelor,6,Laptop,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.8
+21,Bachelor,6,Mobile,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.5
+35,Master,2,Tablet,Beginner,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.1
+21,High School,8,Mobile,Intermediate,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.4
+45,High School,9,Mobile,Intermediate,Unlimited Access Mod,Suspicious App,Fake,4.9
+38,Master,2,Mobile,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.3
+41,Master,9,Laptop,Advanced,Premium Unlock Hack,Suspicious App,Fake,3.9
+45,Master,9,Tablet,Advanced,Free Premium Unlocker,Suspicious App,Fake,3.9
+30,Master,1,Laptop,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.5
+26,High School,8,Tablet,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.1
+25,High School,8,Tablet,Intermediate,Free Premium Unlocker,Suspicious App,Fake,3.5
+36,Master,1,Tablet,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.6
+20,High School,1,Tablet,Beginner,Premium Unlock Hack,Suspicious App,Fake,4.4
+27,Master,7,Laptop,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.5
+45,Bachelor,7,Mobile,Advanced,VIP Crack Tool,Suspicious App,Fake,4.8
+29,High School,2,Tablet,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.6
+40,Master,7,Mobile,Advanced,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.5
+22,High School,3,Laptop,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.4
+39,Master,3,Tablet,Beginner,Unlimited Access Mod,Suspicious App,Fake,4.2
+22,Master,3,Tablet,Beginner,Elite Booster Pro,Suspicious App,Fake,4.6
+43,High School,7,Mobile,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.7
+24,Master,9,Mobile,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.6
+43,Master,3,Mobile,Beginner,Pro Hack Master,Suspicious App,Fake,3.5
+24,High School,1,Tablet,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.0
+49,Master,4,Mobile,Intermediate,Elite Booster Pro,Suspicious App,Fake,4.9
+40,High School,7,Laptop,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.1
+28,Master,4,Laptop,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.9
+24,Master,3,Mobile,Beginner,VIP Crack Tool,Suspicious App,Fake,3.7
+19,High School,9,Laptop,Intermediate,VIP Crack Tool,Suspicious App,Fake,3.7
+45,High School,4,Mobile,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.8
+28,High School,7,Laptop,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.8
+24,Bachelor,1,Tablet,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.9
+44,High School,9,Mobile,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.7
+26,Bachelor,3,Laptop,Beginner,Premium Unlock Hack,Suspicious App,Fake,3.5
+25,High School,9,Laptop,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.2
+18,Bachelor,3,Laptop,Beginner,Insta Growth Cracker,Suspicious App,Fake,3.9
+41,Master,6,Tablet,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.8
+41,High School,9,Tablet,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.1
+47,High School,1,Mobile,Beginner,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.9
+29,Master,7,Mobile,Advanced,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.2
+34,High School,5,Mobile,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.9
+34,Bachelor,1,Mobile,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,5.0
+45,Master,6,Mobile,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,3.5
+49,Master,1,Tablet,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.5
+47,Master,2,Laptop,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.3
+43,Master,6,Laptop,Intermediate,VIP Crack Tool,Suspicious App,Fake,3.9
+21,High School,7,Laptop,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.6
+44,High School,1,Tablet,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.6
+41,Bachelor,5,Mobile,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.4
+23,Bachelor,6,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.3
+33,Master,1,Tablet,Advanced,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,3.7
+44,High School,6,Mobile,Intermediate,Insta Growth Cracker,Suspicious App,Fake,4.5
+20,High School,4,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.0
+21,High School,3,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.6
+48,Bachelor,3,Mobile,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.0
+24,High School,4,Mobile,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.9
+25,High School,7,Tablet,Intermediate,Insta Growth Cracker,Suspicious App,Fake,4.9
+18,High School,9,Mobile,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,3.7
+40,Master,3,Mobile,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.8
+33,Bachelor,9,Mobile,Advanced,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.3
+34,High School,2,Laptop,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,5.0
+47,Bachelor,5,Tablet,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.9
+44,Master,7,Mobile,Advanced,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.0
+20,High School,3,Laptop,Advanced,Unlimited Access Mod,Suspicious App,Fake,4.6
+20,Master,4,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.8
+41,Master,1,Mobile,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.5
+28,High School,1,Mobile,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.7
+23,High School,8,Mobile,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.4
+20,High School,9,Laptop,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.5
+46,Master,2,Laptop,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.7
+35,High School,2,Tablet,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.5
+33,Master,9,Laptop,Advanced,Unlimited Access Mod,Suspicious App,Fake,3.8
+21,Master,1,Tablet,Beginner,Secret Spy Tracker,Suspicious App,Fake,4.2
+33,Bachelor,4,Mobile,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.0
+25,Master,7,Tablet,Advanced,Secret Spy Tracker,Suspicious App,Fake,4.6
+49,Bachelor,1,Laptop,Beginner,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.3
+44,Master,3,Laptop,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.5
+39,Bachelor,6,Tablet,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,5.0
+36,Master,6,Laptop,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.9
+44,Bachelor,2,Tablet,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.0
+18,Bachelor,1,Laptop,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.8
+46,High School,3,Laptop,Beginner,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.4
+49,Bachelor,1,Laptop,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.6
+29,Master,5,Mobile,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.8
+45,Master,9,Tablet,Advanced,Secret Spy Tracker,Suspicious App,Fake,4.9
+46,Master,1,Laptop,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.3
+48,High School,3,Mobile,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,5.0
+37,High School,5,Laptop,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.8
+18,Master,3,Tablet,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.8
+42,Master,6,Tablet,Beginner,Secret Spy Tracker,Suspicious App,Fake,4.5
+25,High School,8,Tablet,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.8
+32,High School,6,Laptop,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.0
+48,Master,2,Tablet,Beginner,Elite Booster Pro,Suspicious App,Fake,4.0
+25,Master,1,Tablet,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.7
+39,Master,7,Laptop,Advanced,Elite Booster Pro,Suspicious App,Fake,3.9
+40,Bachelor,3,Laptop,Beginner,Free Premium Unlocker,Suspicious App,Fake,3.9
+41,Master,7,Laptop,Advanced,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.3
+30,Master,4,Laptop,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.5
+49,Master,3,Mobile,Beginner,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.0
+45,High School,2,Tablet,Beginner,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.6
+40,Master,6,Laptop,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.0
+43,Bachelor,6,Tablet,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.4
+39,Master,1,Laptop,Beginner,Free Premium Unlocker,Suspicious App,Fake,3.6
+23,Bachelor,6,Laptop,Intermediate,Secret Spy Tracker,Suspicious App,Fake,4.3
+22,Bachelor,1,Mobile,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.7
+45,Bachelor,5,Tablet,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.2
+23,Bachelor,4,Mobile,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.1
+20,Bachelor,7,Tablet,Advanced,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,3.7
+33,Bachelor,2,Mobile,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.3
+47,Bachelor,3,Laptop,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.7
+48,Bachelor,3,Laptop,Beginner,Free Premium Unlocker,Suspicious App,Fake,4.2
+40,High School,5,Laptop,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.8
+47,High School,7,Tablet,Intermediate,Premium Unlock Hack,Suspicious App,Fake,4.1
+29,High School,5,Mobile,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.6
+43,High School,1,Mobile,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.2
+49,Bachelor,6,Tablet,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.6
+25,Master,5,Tablet,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.5
+46,Bachelor,7,Mobile,Advanced,Unlimited Access Mod,Suspicious App,Fake,4.5
+22,Bachelor,6,Tablet,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.6
+20,Master,3,Mobile,Beginner,VIP Crack Tool,Suspicious App,Fake,4.6
+42,Master,5,Mobile,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.6
+47,High School,4,Tablet,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,3.8
+33,Bachelor,5,Mobile,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.2
+18,Bachelor,5,Tablet,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.1
+27,Master,6,Laptop,Intermediate,Elite Booster Pro,Suspicious App,Fake,4.5
+19,Bachelor,4,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.1
+43,High School,3,Mobile,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.3
+18,Bachelor,8,Tablet,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.5
+21,Bachelor,8,Laptop,Advanced,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.9
+19,Bachelor,1,Laptop,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.8
+49,Bachelor,4,Tablet,Beginner,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.4
+35,Bachelor,3,Laptop,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.5
+18,Master,3,Tablet,Beginner,VIP Crack Tool,Suspicious App,Fake,4.7
+29,Bachelor,3,Mobile,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.7
+25,Master,2,Laptop,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,3.6
+35,Master,3,Tablet,Beginner,Free Premium Unlocker,Suspicious App,Fake,4.0
+43,Bachelor,8,Laptop,Advanced,Pro Hack Master,Suspicious App,Fake,4.1
+27,High School,2,Tablet,Beginner,Unlimited Coins Generator,Suspicious App,Fake,3.9
+24,High School,4,Mobile,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.5
+35,Master,8,Tablet,Advanced,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.6
+38,Bachelor,9,Mobile,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.3
+22,Master,9,Mobile,Advanced,Insta Growth Cracker,Suspicious App,Fake,4.4
+20,Bachelor,1,Tablet,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.6
+21,Bachelor,2,Mobile,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.9
+49,Bachelor,8,Laptop,Advanced,Free Premium Unlocker,Suspicious App,Fake,4.8
+49,Bachelor,5,Mobile,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.9
+40,Master,7,Tablet,Advanced,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.6
+26,Master,1,Laptop,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.3
+37,Bachelor,9,Tablet,Advanced,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.0
+44,Master,3,Laptop,Beginner,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.1
+29,Master,9,Laptop,Advanced,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.8
+26,Master,7,Mobile,Advanced,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.9
+48,Bachelor,4,Tablet,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.4
+32,High School,5,Mobile,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.6
+29,Bachelor,9,Mobile,Advanced,Elite Booster Pro,Suspicious App,Fake,4.3
+38,High School,4,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.9
+33,Master,9,Tablet,Advanced,Unlimited Access Mod,Suspicious App,Fake,3.7
+38,High School,7,Tablet,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,5.0
+43,High School,5,Mobile,Intermediate,Free Premium Unlocker,Suspicious App,Fake,4.6
+46,Bachelor,2,Mobile,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,5.0
+26,Bachelor,1,Tablet,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,3.7
+24,High School,8,Laptop,Intermediate,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.6
+35,High School,2,Mobile,Beginner,Premium Unlock Hack,Suspicious App,Fake,3.6
+22,Master,6,Laptop,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,5.0
+33,Bachelor,1,Tablet,Beginner,Unlimited Coins Generator,Suspicious App,Fake,4.8
+34,Master,7,Laptop,Advanced,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,5.0
+21,Bachelor,4,Laptop,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.1
+48,High School,3,Laptop,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.7
+39,Bachelor,7,Tablet,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.1
+43,Bachelor,3,Mobile,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.7
+20,High School,2,Tablet,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.2
+43,High School,4,Tablet,Intermediate,Elite Booster Pro,Suspicious App,Fake,3.7
+46,High School,9,Mobile,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.6
+20,Bachelor,9,Tablet,Advanced,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.1
+34,Master,9,Mobile,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.8
+23,Master,5,Laptop,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.9
+29,Bachelor,5,Mobile,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.6
+38,Master,5,Laptop,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.9
+36,Bachelor,4,Laptop,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,3.6
+32,High School,9,Tablet,Intermediate,VIP Crack Tool,Suspicious App,Fake,3.8
+32,Bachelor,1,Laptop,Beginner,Free Premium Unlocker,Suspicious App,Fake,4.4
+39,High School,3,Laptop,Beginner,Elite Booster Pro,Suspicious App,Fake,4.9
+42,High School,8,Laptop,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.1
+41,Master,5,Laptop,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.9
+45,Master,4,Mobile,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.2
+43,Bachelor,2,Mobile,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.9
+22,Bachelor,9,Laptop,Advanced,Unlimited Coins Generator,Suspicious App,Fake,3.9
+44,Bachelor,6,Mobile,Intermediate,Pro Hack Master,Suspicious App,Fake,3.5
+26,High School,1,Laptop,Beginner,Premium Unlock Hack,Suspicious App,Fake,4.1
+30,Master,3,Mobile,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.7
+35,High School,3,Laptop,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.6
+32,Master,9,Laptop,Advanced,Insta Growth Cracker,Suspicious App,Fake,4.1
+41,Bachelor,2,Laptop,Beginner,Elite Booster Pro,Suspicious App,Fake,4.3
+22,Master,7,Mobile,Advanced,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.1
+39,Bachelor,1,Mobile,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.2
+32,Master,1,Tablet,Beginner,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.1
+43,Bachelor,9,Mobile,Advanced,Free Premium Unlocker,Suspicious App,Fake,5.0
+44,Bachelor,1,Laptop,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.8
+19,Master,9,Tablet,Advanced,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.1
+18,Master,5,Laptop,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.6
+23,Master,1,Mobile,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.3
+22,Bachelor,6,Tablet,Intermediate,Insta Growth Cracker,Suspicious App,Fake,4.9
+40,High School,5,Mobile,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.6
+27,Bachelor,3,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.9
+31,Bachelor,9,Mobile,Advanced,VIP Crack Tool,Suspicious App,Fake,3.7
+36,High School,4,Laptop,Intermediate,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,3.8
+34,Bachelor,8,Mobile,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.4
+45,High School,8,Tablet,Intermediate,Premium Unlock Hack,Suspicious App,Fake,3.5
+43,Master,2,Tablet,Beginner,Free Premium Unlocker,Suspicious App,Fake,4.2
+20,High School,2,Tablet,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.8
+39,Master,5,Laptop,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,3.6
+44,Master,9,Mobile,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.4
+48,Bachelor,7,Mobile,Advanced,VIP Crack Tool,Suspicious App,Fake,4.6
+38,Bachelor,2,Laptop,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.7
+24,Master,6,Laptop,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.4
+19,Bachelor,6,Laptop,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.4
+35,Bachelor,3,Mobile,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.9
+37,High School,9,Tablet,Intermediate,Insta Growth Cracker,Suspicious App,Fake,4.3
+41,Bachelor,7,Mobile,Advanced,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.3
+34,High School,5,Laptop,Intermediate,Free Premium Unlocker,Suspicious App,Fake,4.7
+27,Master,8,Laptop,Advanced,VIP Crack Tool,Suspicious App,Fake,4.8
+34,Master,4,Mobile,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.2
+19,Bachelor,6,Tablet,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.2
+30,Bachelor,3,Tablet,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.3
+40,High School,7,Mobile,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.4
+28,High School,6,Tablet,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.5
+21,Master,8,Tablet,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.5
+42,Master,3,Mobile,Beginner,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.8
+44,Bachelor,2,Tablet,Beginner,Premium Unlock Hack,Suspicious App,Fake,4.4
+36,Master,3,Laptop,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.7
+35,Bachelor,6,Mobile,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.6
+18,Master,5,Laptop,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.2
+43,Bachelor,2,Mobile,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,3.7
+43,High School,9,Mobile,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.6
+32,Master,9,Mobile,Advanced,Secret Spy Tracker,Suspicious App,Fake,4.5
+41,Master,1,Mobile,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.9
+18,High School,8,Tablet,Beginner,Insta Growth Cracker,Suspicious App,Fake,4.6
+46,Bachelor,4,Mobile,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,3.8
+48,High School,8,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.2
+43,High School,7,Mobile,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.3
+19,Master,8,Mobile,Advanced,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.7
+20,Bachelor,7,Tablet,Advanced,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.3
+32,Master,2,Mobile,Beginner,Insta Growth Cracker,Suspicious App,Fake,4.2
+20,Bachelor,3,Laptop,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.9
+42,Bachelor,7,Laptop,Advanced,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.1
+27,Bachelor,7,Mobile,Advanced,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.0
+24,High School,6,Mobile,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.0
+29,Master,9,Laptop,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.8
+37,Bachelor,9,Tablet,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.5
+20,High School,9,Tablet,Intermediate,Secret Spy Tracker,Suspicious App,Fake,4.2
+32,Bachelor,4,Laptop,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.3
+19,Bachelor,8,Laptop,Advanced,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.4
+29,Bachelor,3,Tablet,Beginner,Elite Booster Pro,Suspicious App,Fake,4.1
+22,High School,6,Mobile,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.8
+49,Master,2,Tablet,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.9
+44,Master,6,Tablet,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.4
+18,Bachelor,5,Tablet,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.7
+23,Master,6,Mobile,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.9
+21,High School,8,Tablet,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.8
+40,High School,3,Mobile,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.3
+25,Bachelor,5,Tablet,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,5.0
+48,Master,6,Tablet,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.1
+45,Master,4,Tablet,Intermediate,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,3.5
+39,Bachelor,1,Laptop,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.2
+23,Master,3,Tablet,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.7
+19,High School,8,Mobile,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.2
+30,Bachelor,5,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.8
+39,Master,4,Tablet,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.1
+18,Master,4,Mobile,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,3.9
+32,Bachelor,1,Laptop,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.4
+49,Master,6,Mobile,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.4
+28,Master,4,Tablet,Intermediate,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.0
+20,High School,1,Laptop,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.1
+41,Bachelor,5,Mobile,Intermediate,Free Premium Unlocker,Suspicious App,Fake,3.6
+29,Bachelor,2,Mobile,Advanced,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.0
+19,Bachelor,4,Tablet,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.9
+22,Master,9,Laptop,Advanced,Premium Unlock Hack,Suspicious App,Fake,4.6
+28,Bachelor,8,Mobile,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.4
+20,Master,1,Laptop,Beginner,Unlimited Access Mod,Suspicious App,Fake,4.8
+45,Bachelor,2,Mobile,Beginner,Unlimited Coins Generator,Suspicious App,Fake,3.7
+41,Master,9,Laptop,Advanced,VIP Crack Tool,Suspicious App,Fake,3.8
+20,Bachelor,3,Mobile,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.9
+49,High School,6,Laptop,Intermediate,Secret Spy Tracker,Suspicious App,Fake,3.6
+46,Bachelor,8,Mobile,Advanced,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.7
+22,Master,3,Mobile,Beginner,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,3.7
+22,Master,3,Mobile,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.5
+43,High School,4,Tablet,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.0
+27,High School,9,Tablet,Intermediate,Elite Booster Pro,Suspicious App,Fake,4.5
+25,Master,7,Tablet,Advanced,Pro Hack Master,Suspicious App,Fake,4.6
+49,Master,3,Laptop,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.4
+18,Master,7,Laptop,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.2
+18,Master,9,Mobile,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.0
+32,Bachelor,7,Laptop,Advanced,VIP Crack Tool,Suspicious App,Fake,4.3
+38,Master,8,Tablet,Advanced,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.8
+24,Master,3,Mobile,Beginner,Secret Spy Tracker,Suspicious App,Fake,4.1
+20,Bachelor,7,Tablet,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.6
+27,Bachelor,4,Mobile,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.7
+46,Master,1,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.3
+24,Bachelor,4,Tablet,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,5.0
+42,Bachelor,1,Laptop,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.6
+44,High School,7,Tablet,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.7
+21,Master,6,Tablet,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.6
+22,Master,1,Tablet,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,3.7
+30,Master,4,Mobile,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.2
+37,Master,8,Tablet,Advanced,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.3
+25,Bachelor,5,Tablet,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.2
+21,Master,2,Tablet,Beginner,Insta Growth Cracker,Suspicious App,Fake,3.5
+36,High School,3,Tablet,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.3
+43,Bachelor,5,Laptop,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.7
+47,Bachelor,8,Mobile,Advanced,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.4
+25,Bachelor,7,Mobile,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.2
+31,Master,8,Mobile,Advanced,Unlimited Coins Generator,Suspicious App,Fake,4.3
+42,Master,1,Laptop,Beginner,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,3.5
+45,Master,4,Mobile,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.9
+22,Master,8,Tablet,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.5
+48,Master,1,Laptop,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.4
+43,Bachelor,9,Mobile,Advanced,Elite Booster Pro,Suspicious App,Fake,4.1
+46,Bachelor,8,Laptop,Advanced,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.8
+28,High School,7,Mobile,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.7
+22,High School,5,Tablet,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.7
+21,High School,6,Tablet,Intermediate,Free Premium Unlocker,Suspicious App,Fake,4.8
+18,High School,6,Mobile,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.3
+25,Bachelor,5,Mobile,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.1
+38,Bachelor,9,Mobile,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.8
+42,High School,5,Laptop,Intermediate,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.4
+20,Bachelor,4,Mobile,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.3
+28,High School,6,Mobile,Intermediate,Elite Booster Pro,Suspicious App,Fake,4.0
+35,Master,2,Mobile,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.9
+49,High School,3,Mobile,Beginner,Insta Growth Cracker,Suspicious App,Fake,3.9
+42,Master,7,Tablet,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.7
+38,High School,8,Laptop,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.0
+46,Master,6,Laptop,Intermediate,Elite Booster Pro,Suspicious App,Fake,3.8
+35,Master,5,Tablet,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.3
+34,High School,4,Laptop,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.2
+37,Master,6,Laptop,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.8
+48,Bachelor,8,Mobile,Advanced,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.3
+18,Master,7,Tablet,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.1
+41,Bachelor,3,Laptop,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.0
+47,Bachelor,1,Mobile,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.6
+47,Master,8,Tablet,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.4
+18,Master,3,Laptop,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.2
+19,Master,6,Laptop,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.2
+35,High School,6,Mobile,Intermediate,Premium Unlock Hack,Suspicious App,Fake,4.6
+21,Bachelor,1,Mobile,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.0
+40,Bachelor,7,Laptop,Advanced,Insta Growth Cracker,Suspicious App,Fake,4.6
+27,Bachelor,3,Laptop,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.5
+45,Bachelor,1,Mobile,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.5
+45,Bachelor,2,Laptop,Beginner,Unlimited Access Mod,Suspicious App,Fake,4.8
+25,Bachelor,1,Mobile,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.3
+20,Master,8,Laptop,Advanced,VIP Crack Tool,Suspicious App,Fake,3.8
+48,Bachelor,8,Tablet,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.7
+32,Bachelor,5,Mobile,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.8
+18,Bachelor,8,Tablet,Advanced,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.6
+49,Bachelor,8,Laptop,Advanced,Pro Hack Master,Suspicious App,Fake,4.6
+41,Master,4,Laptop,Intermediate,Premium Unlock Hack,Suspicious App,Fake,4.9
+39,High School,5,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.1
+40,Master,2,Tablet,Beginner,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.5
+24,Master,1,Tablet,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.8
+36,High School,3,Tablet,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.4
+45,High School,2,Tablet,Beginner,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.8
+32,Bachelor,5,Laptop,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.0
+27,Bachelor,2,Laptop,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.0
+40,High School,4,Tablet,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.4
+23,Master,9,Mobile,Advanced,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.2
+29,High School,3,Tablet,Beginner,Elite Booster Pro,Suspicious App,Fake,4.9
+39,High School,8,Mobile,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.7
+47,Master,8,Laptop,Advanced,Pro Hack Master,Suspicious App,Fake,5.0
+40,Master,1,Laptop,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.2
+34,Bachelor,9,Mobile,Advanced,Unlimited Coins Generator,Suspicious App,Fake,4.3
+30,Bachelor,9,Tablet,Advanced,Unlimited Coins Generator,Suspicious App,Fake,3.9
+39,High School,6,Laptop,Advanced,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.8
+21,Master,2,Mobile,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.9
+28,Bachelor,6,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.9
+38,Bachelor,4,Tablet,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.2
+19,Bachelor,1,Laptop,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.1
+23,Master,7,Tablet,Advanced,Unlimited Coins Generator,Suspicious App,Fake,3.7
+39,Bachelor,5,Tablet,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.9
+48,Master,6,Mobile,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.6
+19,Master,9,Mobile,Advanced,Free Premium Unlocker,Suspicious App,Fake,4.2
+27,High School,1,Laptop,Beginner,Free Premium Unlocker,Suspicious App,Fake,4.1
+45,High School,2,Tablet,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.7
+28,Master,1,Mobile,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.6
+21,Master,3,Tablet,Beginner,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.9
+38,Master,8,Mobile,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.2
+21,Master,1,Tablet,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.6
+25,Bachelor,3,Tablet,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.9
+40,Master,8,Laptop,Advanced,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.9
+22,Master,8,Laptop,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.8
+21,High School,4,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.7
+37,Master,1,Mobile,Beginner,Pro Hack Master,Suspicious App,Fake,4.2
+30,Bachelor,2,Mobile,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.4
+19,Bachelor,5,Mobile,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.0
+25,High School,1,Mobile,Beginner,Unlimited Access Mod,Suspicious App,Fake,4.1
+46,High School,8,Mobile,Intermediate,Pro Hack Master,Suspicious App,Fake,4.2
+24,High School,3,Mobile,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.7
+22,Bachelor,3,Laptop,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.9
+19,High School,3,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.0
+44,Master,1,Tablet,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.7
+27,High School,9,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.2
+32,Bachelor,8,Laptop,Advanced,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.6
+48,High School,5,Laptop,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.6
+22,Bachelor,6,Tablet,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.5
+25,High School,9,Mobile,Intermediate,Pro Hack Master,Suspicious App,Fake,4.9
+29,Master,9,Laptop,Advanced,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.9
+32,Bachelor,7,Tablet,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,5.0
+43,Bachelor,5,Laptop,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.2
+24,Master,5,Mobile,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.6
+36,Bachelor,8,Tablet,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,5.0
+40,Master,2,Tablet,Beginner,Free Premium Unlocker,Suspicious App,Fake,4.6
+37,Bachelor,7,Mobile,Advanced,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.2
+44,Master,7,Laptop,Advanced,Premium Unlock Hack,Suspicious App,Fake,3.6
+48,Master,8,Laptop,Advanced,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.8
+45,Master,2,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.8
+28,High School,8,Tablet,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.2
+40,Bachelor,7,Mobile,Advanced,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.0
+34,Master,4,Mobile,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.7
+42,High School,2,Laptop,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.3
+30,Master,2,Laptop,Beginner,Premium Unlock Hack,Suspicious App,Fake,3.5
+27,Master,2,Mobile,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,3.5
+40,Bachelor,2,Tablet,Beginner,Elite Booster Pro,Suspicious App,Fake,4.9
+20,Master,7,Laptop,Advanced,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.5
+46,Master,1,Tablet,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.1
+38,Bachelor,9,Mobile,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.4
+29,High School,9,Laptop,Intermediate,Elite Booster Pro,Suspicious App,Fake,4.7
+42,Bachelor,7,Laptop,Advanced,Free Premium Unlocker,Suspicious App,Fake,4.3
+18,Bachelor,1,Mobile,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.7
+31,Bachelor,8,Laptop,Advanced,Free Premium Unlocker,Suspicious App,Fake,3.9
+21,High School,2,Laptop,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.9
+42,Bachelor,1,Tablet,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.9
+32,Master,9,Laptop,Advanced,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.7
+42,High School,8,Tablet,Intermediate,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.7
+44,Master,5,Tablet,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.7
+28,Bachelor,6,Laptop,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,5.0
+48,High School,8,Mobile,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.2
+30,Bachelor,2,Tablet,Beginner,Elite Booster Pro,Suspicious App,Fake,3.8
+37,Master,4,Mobile,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.8
+37,Master,6,Mobile,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.4
+30,High School,2,Tablet,Beginner,Premium Unlock Hack,Suspicious App,Fake,4.1
+26,High School,1,Laptop,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.9
+41,High School,6,Laptop,Intermediate,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.7
+39,Bachelor,7,Mobile,Advanced,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.8
+20,Bachelor,4,Laptop,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,5.0
+46,Bachelor,3,Mobile,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.6
+47,High School,1,Laptop,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.7
+49,Master,3,Mobile,Intermediate,Secret Spy Tracker,Suspicious App,Fake,3.8
+41,High School,9,Tablet,Intermediate,Unlimited Access Mod,Suspicious App,Fake,4.4
+31,Master,5,Laptop,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,3.6
+26,High School,8,Laptop,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,3.9
+45,Bachelor,9,Mobile,Advanced,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.6
+19,Bachelor,9,Tablet,Advanced,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.0
+42,Bachelor,5,Tablet,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.6
+19,Bachelor,8,Mobile,Advanced,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.9
+23,Master,8,Laptop,Advanced,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.5
+33,Bachelor,2,Tablet,Beginner,Elite Booster Pro,Suspicious App,Fake,3.6
+45,High School,5,Laptop,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,5.0
+35,Master,8,Tablet,Advanced,Secret Spy Tracker,Suspicious App,Fake,4.8
+47,High School,3,Tablet,Beginner,VIP Crack Tool,Suspicious App,Fake,4.7
+41,Master,8,Laptop,Advanced,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.5
+44,Master,1,Mobile,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.8
+36,High School,8,Tablet,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.9
+44,Master,9,Laptop,Advanced,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.0
+30,Bachelor,9,Mobile,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.9
+21,Bachelor,6,Mobile,Intermediate,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.8
+22,Master,9,Laptop,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.5
+40,Bachelor,5,Laptop,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.6
+48,High School,2,Laptop,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.7
+31,High School,7,Laptop,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.8
+30,High School,1,Tablet,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.3
+25,Bachelor,2,Laptop,Beginner,Unlimited Access Mod,Suspicious App,Fake,4.5
+41,Bachelor,3,Mobile,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.7
+36,High School,7,Tablet,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.3
+49,Bachelor,2,Tablet,Beginner,Premium Unlock Hack,Suspicious App,Fake,4.0
+45,High School,5,Laptop,Intermediate,Unlimited Access Mod,Suspicious App,Fake,3.7
+21,Master,4,Laptop,Intermediate,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,4.5
+35,High School,4,Laptop,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.0
+34,High School,6,Tablet,Intermediate,Premium Unlock Hack,Suspicious App,Fake,4.6
+39,High School,1,Mobile,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.6
+41,Master,2,Tablet,Beginner,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.8
+49,High School,4,Laptop,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.5
+37,High School,7,Mobile,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,3.6
+18,Master,6,Tablet,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.1
+49,Bachelor,3,Mobile,Beginner,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,3.9
+40,Master,2,Mobile,Beginner,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.9
+46,Master,4,Tablet,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.1
+30,Master,9,Laptop,Advanced,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,3.7
+40,Master,4,Laptop,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.8
+32,Bachelor,4,Mobile,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.5
+44,Bachelor,3,Mobile,Beginner,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.9
+29,High School,8,Laptop,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.1
+38,Master,5,Tablet,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.5
+23,Bachelor,3,Tablet,Beginner,Microsoft Office,https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow,Real,3.9
+20,High School,1,Tablet,Beginner,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.0
+23,Bachelor,2,Tablet,Beginner,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.8
+49,High School,1,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.5
+29,High School,2,Laptop,Beginner,Secret Spy Tracker,Suspicious App,Fake,4.8
+33,High School,8,Tablet,Intermediate,Elite Booster Pro,Suspicious App,Fake,3.7
+42,High School,1,Tablet,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,3.6
+25,High School,2,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.6
+20,Master,5,Tablet,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,4.9
+43,Bachelor,3,Laptop,Beginner,Elite Booster Pro,Suspicious App,Fake,3.8
+32,Bachelor,9,Mobile,Advanced,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,3.5
+24,High School,1,Tablet,Beginner,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.4
+37,Master,4,Tablet,Intermediate,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.3
+33,Bachelor,9,Mobile,Advanced,Elite Booster Pro,Suspicious App,Fake,3.7
+39,Master,6,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.0
+19,Bachelor,8,Tablet,Advanced,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.1
+49,Master,1,Laptop,Beginner,Elite Booster Pro,Suspicious App,Fake,3.5
+35,High School,2,Tablet,Beginner,Insta Growth Cracker,Suspicious App,Fake,4.2
+48,High School,6,Mobile,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.9
+30,High School,9,Laptop,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.8
+23,Master,9,Mobile,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.6
+39,Master,3,Tablet,Beginner,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.7
+34,Master,9,Laptop,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.4
+32,High School,6,Tablet,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.4
+37,High School,1,Tablet,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.3
+49,High School,2,Mobile,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.0
+19,High School,1,Tablet,Beginner,Free Premium Unlocker,Suspicious App,Fake,3.6
+30,Bachelor,1,Mobile,Beginner,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.7
+43,High School,6,Tablet,Intermediate,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.0
+23,High School,7,Tablet,Intermediate,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.8
+43,High School,2,Laptop,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.7
+27,Master,7,Mobile,Advanced,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.5
+25,Bachelor,3,Tablet,Beginner,Skillshare,https://play.google.com/store/apps/details?id=com.skillshare.Skillshare,Real,4.8
+26,High School,6,Tablet,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.4
+48,Master,9,Tablet,Advanced,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.6
+25,Master,8,Laptop,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.6
+47,High School,4,Laptop,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.0
+44,Master,7,Laptop,Advanced,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.5
+33,High School,4,Tablet,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,4.4
+39,Master,3,Laptop,Beginner,VIP Crack Tool,Suspicious App,Fake,3.6
+45,Master,2,Tablet,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,3.6
+40,High School,9,Mobile,Intermediate,Unlimited Access Mod,Suspicious App,Fake,4.8
+43,Bachelor,3,Mobile,Beginner,Elite Booster Pro,Suspicious App,Fake,5.0
+21,Bachelor,8,Mobile,Advanced,Unlimited Access Mod,Suspicious App,Fake,4.8
+38,High School,7,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,3.6
+29,Master,2,Laptop,Beginner,VIP Crack Tool,Suspicious App,Fake,3.5
+36,Bachelor,6,Mobile,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.0
+41,Master,9,Laptop,Advanced,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.2
+45,Bachelor,3,Laptop,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.5
+46,High School,6,Mobile,Intermediate,Dropbox,https://play.google.com/store/apps/details?id=com.dropbox.android,Real,3.5
+18,Bachelor,7,Mobile,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.2
+47,Master,5,Laptop,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.6
+46,Bachelor,8,Mobile,Advanced,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,4.1
+21,Master,4,Tablet,Intermediate,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.3
+35,Bachelor,1,Laptop,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.3
+26,Bachelor,4,Laptop,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.5
+19,Bachelor,4,Laptop,Intermediate,Elite Booster Pro,Suspicious App,Fake,4.8
+19,Master,4,Tablet,Intermediate,LinkedIn Learning,https://play.google.com/store/apps/details?id=com.linkedin.android.learning,Real,4.1
+27,High School,3,Laptop,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.4
+39,Bachelor,3,Laptop,Beginner,Unlimited Coins Generator,Suspicious App,Fake,4.4
+25,Bachelor,5,Laptop,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.6
+20,Bachelor,8,Mobile,Advanced,Free Premium Unlocker,Suspicious App,Fake,4.1
+47,Master,7,Tablet,Advanced,Secret Spy Tracker,Suspicious App,Fake,4.4
+31,Bachelor,2,Laptop,Beginner,Pro Hack Master,Suspicious App,Fake,3.8
+22,High School,6,Tablet,Intermediate,Unlimited Coins Generator,Suspicious App,Fake,4.2
+47,Master,6,Tablet,Advanced,Duolingo,https://play.google.com/store/apps/details?id=com.duolingo,Real,4.8
+32,High School,8,Laptop,Intermediate,VIP Crack Tool,Suspicious App,Fake,4.4
+37,Bachelor,2,Tablet,Beginner,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.6
+34,Bachelor,9,Tablet,Advanced,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,5.0
+19,High School,3,Laptop,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.5
+48,Master,1,Tablet,Beginner,Unlimited Access Mod,Suspicious App,Fake,4.7
+41,Master,4,Mobile,Intermediate,Slack,https://play.google.com/store/apps/details?id=com.Slack,Real,5.0
+32,Master,3,Tablet,Beginner,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,4.2
+33,High School,9,Tablet,Intermediate,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.1
+37,High School,8,Tablet,Intermediate,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.4
+18,Bachelor,9,Laptop,Advanced,Khan Academy,https://play.google.com/store/apps/details?id=org.khanacademy.android,Real,3.8
+37,Master,9,Tablet,Advanced,Trello,https://play.google.com/store/apps/details?id=com.trello,Real,4.4
+32,High School,5,Laptop,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.3
+34,Master,1,Tablet,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,4.6
+41,Bachelor,6,Mobile,Intermediate,VIP Crack Tool,Suspicious App,Fake,3.8
+46,High School,4,Tablet,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,3.9
+19,High School,9,Tablet,Intermediate,Zoom,https://play.google.com/store/apps/details?id=us.zoom.videomeetings,Real,4.3
+37,Master,1,Tablet,Beginner,Google Classroom,https://play.google.com/store/apps/details?id=com.google.android.apps.classroom,Real,3.7
+23,Master,5,Mobile,Intermediate,Notion,https://play.google.com/store/apps/details?id=notion.id,Real,4.9
+22,High School,1,Tablet,Beginner,Coursera,https://play.google.com/store/apps/details?id=org.coursera.android,Real,4.3
+31,Bachelor,4,Tablet,Intermediate,edX,https://play.google.com/store/apps/details?id=org.edx.mobile,Real,5.0
+41,Bachelor,2,Tablet,Beginner,Google Sheets,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,Real,4.0
+46,Bachelor,9,Mobile,Advanced,Elite Booster Pro,Suspicious App,Fake,4.4
+41,Master,2,Laptop,Beginner,Secret Spy Tracker,Suspicious App,Fake,4.0
+23,Bachelor,4,Tablet,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,3.7
+47,Master,4,Mobile,Intermediate,Udemy,https://play.google.com/store/apps/details?id=com.udemy.android,Real,4.6
