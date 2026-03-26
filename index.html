@@ -43,8 +43,12 @@ function getApps() {
   })
   .then(res => res.json())
   .then(data => {
-    document.getElementById("result").innerText =
-      "Level: " + data.level + "\nApps: " + data.personalized_apps.join(", ");
+    if (data.error) {
+      document.getElementById("result").innerText = "Error: " + data.error;
+    } else {
+      document.getElementById("result").innerText =
+        "Level: " + data.level + "\nApps: " + data.personalized_apps.join(", ");
+    }
   })
   .catch(err => {
     document.getElementById("result").innerText = "Error connecting to server";

@@ -2,11 +2,12 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pandas as pd
 import random
+import os
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 
 app = Flask(__name__)
-CORS(app)   # 🔥 VERY IMPORTANT (fixes your error)
+CORS(app)   # 🔥 allows Netlify to connect
 
 # ---------------- LOAD DATA ----------------
 df = pd.read_csv("Digital_Literacy_Final_Project_Professional.csv")
@@ -78,4 +79,5 @@ def recommend():
 
 # ---------------- RUN ----------------
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=10000)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host='0.0.0.0', port=port)
