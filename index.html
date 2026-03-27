@@ -7,65 +7,66 @@
 <input id="age" placeholder="Age"><br>
 
 <select id="edu">
-  <option>High School</option>
-  <option>Bachelor</option>
-  <option>Master</option>
+<option>High School</option>
+<option>Bachelor</option>
+<option>Master</option>
 </select><br>
 
 <input id="internet" placeholder="Internet Hours"><br>
 
 <select id="device">
-  <option>Mobile</option>
-  <option>Laptop</option>
-  <option>Tablet</option>
+<option>Mobile</option>
+<option>Laptop</option>
+<option>Tablet</option>
 </select><br>
 
 <input id="category" placeholder="Category"><br>
 
 <button onclick="getApps()">Get Apps</button>
 
-<p id="result"></p>
+<div id="result"></div>
 
 <script>
 function getApps() {
-  document.getElementById("result").innerHTML = "Loading...";
+document.getElementById("result").innerHTML="Loading...";
 
-  fetch("https://app-recomender-2.onrender.com/recommend", {
-    method: "POST",
-    headers: {"Content-Type": "application/json"},
-    body: JSON.stringify({
-      age: document.getElementById("age").value,
-      education: document.getElementById("edu").value,
-      internet_hours: document.getElementById("internet").value,
-      device: document.getElementById("device").value,
-      category: document.getElementById("category").value
-    })
-  })
-  .then(res => res.json())
-  .then(data => {
-    if (data.error) {
-      document.getElementById("result").innerHTML = "Error: " + data.error;
-      return;
-    }
+fetch("https://app-recomender-2.onrender.com/recommend",{
+method:"POST",
+headers:{"Content-Type":"application/json"},
+body:JSON.stringify({
+age:age.value,
+education:edu.value,
+internet_hours:internet.value,
+device:device.value,
+category:category.value
+})
+})
+.then(res=>res.json())
+.then(data=>{
+let html=`<h3>Level: ${data.level}</h3>`;
 
-    let html = "<h3>Level: " + data.level + "</h3>";
-    html += "<h4>Recommended Apps:</h4>";
+html+="<h4>⭐ Recommended Apps</h4>";
+data.recommended_apps.forEach(app=>{
+html+=`<div>
+<b>${app.name}</b><br>
+⭐ ${app.rating}<br>
+${app.status}<br>
+${app.status.includes("Fake")?"🚫 Avoid":`<a href="${app.link}">Download</a>`}
+</div><hr>`;
+});
 
-    data.personalized_apps.forEach(app => {
-      html += `
-        <div style="margin:10px; padding:10px; border:1px solid #ccc;">
-          <b>${app.name}</b><br>
-          ⭐ Rating: ${app.rating}<br>
-          <a href="${app.link}" target="_blank">📥 Download</a>
-        </div>
-      `;
-    });
+html+="<h4>📂 Category Apps</h4>";
+data.category_apps.forEach(app=>{
+html+=`<div>
+<b>${app.name}</b><br>
+⭐ ${app.rating}<br>
+${app.status}<br>
+${app.status.includes("Fake")?"🚫 Avoid":`<a href="${app.link}">Download</a>`}
+</div><hr>`;
+});
 
-    document.getElementById("result").innerHTML = html;
-  })
-  .catch(err => {
-    document.getElementById("result").innerHTML = "Error connecting to server";
-  });
+result.innerHTML=html;
+});
 }
 </script>
 
