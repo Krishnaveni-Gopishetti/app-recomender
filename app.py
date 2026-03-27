@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 
 app = Flask(__name__)
-CORS(app)   # 🔥 allows Netlify to connect
+CORS(app)   # 🔥 allows frontend connection
 
 # ---------------- LOAD DATA ----------------
 df = pd.read_csv("Digital_Literacy_Final_Project_Professional.csv")
@@ -30,6 +30,17 @@ model = RandomForestClassifier(n_estimators=120, max_depth=9, random_state=42)
 model.fit(X, y)
 
 levels = ["Beginner","Intermediate","Advanced"]
+
+# ---------------- HELPER FUNCTION ----------------
+def format_apps(df):
+    return [
+        {
+            "name": row["app_name"],
+            "rating": row["rating"],
+            "link": row["app_link"]
+        }
+        for _, row in df.iterrows()
+    ]
 
 # ---------------- HOME ----------------
 @app.route('/')
@@ -66,10 +77,11 @@ def recommend():
         cat_apps = apps_df2.sample(n=min(5, len(apps_df2)))
         pers = apps_df2.sample(n=min(10, len(apps_df2)))
 
+        # ✅ RETURN WITH LINKS + RATINGS
         return jsonify({
             "level": level,
-            "category_apps": cat_apps["app_name"].tolist(),
-            "personalized_apps": pers["app_name"].tolist()
+            "category_apps": format_apps(cat_apps),
+            "personalized_apps": format_apps(pers)
         })
 
     except Exception as e:
