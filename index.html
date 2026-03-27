@@ -28,7 +28,7 @@
 
 <script>
 function getApps() {
-  document.getElementById("result").innerText = "Loading...";
+  document.getElementById("result").innerHTML = "Loading...";
 
   fetch("https://app-recomender-2.onrender.com/recommend", {
     method: "POST",
@@ -44,14 +44,27 @@ function getApps() {
   .then(res => res.json())
   .then(data => {
     if (data.error) {
-      document.getElementById("result").innerText = "Error: " + data.error;
-    } else {
-      document.getElementById("result").innerText =
-        "Level: " + data.level + "\nApps: " + data.personalized_apps.join(", ");
+      document.getElementById("result").innerHTML = "Error: " + data.error;
+      return;
     }
+
+    let html = "<h3>Level: " + data.level + "</h3>";
+    html += "<h4>Recommended Apps:</h4>";
+
+    data.personalized_apps.forEach(app => {
+      html += `
+        <div style="margin:10px; padding:10px; border:1px solid #ccc;">
+          <b>${app.name}</b><br>
+          ⭐ Rating: ${app.rating}<br>
+          <a href="${app.link}" target="_blank">📥 Download</a>
+        </div>
+      `;
+    });
+
+    document.getElementById("result").innerHTML = html;
   })
   .catch(err => {
-    document.getElementById("result").innerText = "Error connecting to server";
+    document.getElementById("result").innerHTML = "Error connecting to server";
   });
 }
 </script>
